@@ -1,3 +1,3 @@
 # Parabolic
 Detect high-altitude parabolic
-hello yes yes 1
+运用各类机器学习方法来判断高空抛物识别系统的输出结果。
